@@ -3,7 +3,7 @@ date: '2026-03-20'
 permalink: trivysecurity layout: post
 
 ### A security incident
-Trivy, Agua Security's open-source vulnerability scanner, appears to have experienced a security incident March 19, 2026, based on the details available here: <a href="https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release" target="_blank">stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release</a>
+Trivy, Aqua Security's open-source vulnerability scanner, appears to have experienced a security incident March 19, 2026, based on the details available here: <a href="https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release" target="_blank">stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release</a>
 
 ASF Infrastructure and ASF Security have provided the following summary based on what we believe to be true:
 
@@ -21,4 +21,4 @@ A small number of ASF projects include the trivy GitHub Action in their build wo
   - Infra and the Security team are investigating if any secrets and Git repositories of ASF projects may have been compromised.
 
 ### For further information
-If you are involved in an ASF project that is impacted by this situation, you can open a Jira ticket for Infra. You can also join the conversation in the #asfinfra channel in the the-asf space on Slack, or send an email to `users@infra.apache.org`.
+If you are involved in an ASF project that is impacted by this situation, you can open a Jira ticket for Infra. You can also join the conversation in the #asfinfra channel in the asf space on Slack, or send an email to `users@infra.apache.org`.
